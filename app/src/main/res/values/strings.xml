@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Bank Сard</string>
+    <string name="bottom_text">Enter the first digits of a card number (BIN/IIN)</string>
+    <string name="scheme_network_text">SCHEME / NETWORK</string>
+    <string name="type_text">TYPE</string>
+    <string name="debit_text">Debit</string>
+    <string name="separator"> / </string>
+    <string name="credit_text">Credit</string>
+    <string name="brand_text">Brand</string>
+    <string name="prepaid_text">PREPAID</string>
+    <string name="yes_text">Yes</string>
+    <string name="no_text">No</string>
+    <string name="card_number_text">CARD NUMBER</string>
+    <string name="length_text">LENGTH</string>
+    <string name="luhn_text">LUHN</string>
+    <string name="country_text">COUNTRY</string>
+    <string name="latitude_text">(latitude:</string>
+    <string name="longitude_text">, longitude:</string>
+    <string name="bank_text">BANK</string>
+    <string name="history_text">History:</string>
+</resources>
