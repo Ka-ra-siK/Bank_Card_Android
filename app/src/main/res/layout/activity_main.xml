@@ -139,7 +139,6 @@
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
                     android:text="@string/prepaid_text"
-
                     android:textSize="13dp" />
 
                 <LinearLayout
